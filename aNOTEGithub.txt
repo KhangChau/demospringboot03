@@ -1,0 +1,7 @@
+main/roster : (chứa source đã triển khai cho khách hàng)
+uat : Chứa source đã có chức năng mới và được tesst bởi tester và chờ khách hàng nội bộ test
+dev : Chứa tất cả những tính năng đang code nhưng triển khai test
+
+dat ten nhanh
+feature/dangKy
+feature/hienThiSanPham
