@@ -1,2 +1,3 @@
 day la tinh nang hien thi san pham tu may B (hinh sua A)
 chinh sua A lan 2
+chinh sua B lan 2
